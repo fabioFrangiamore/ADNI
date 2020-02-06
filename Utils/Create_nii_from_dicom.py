@@ -60,17 +60,17 @@ def convert_dcmtonii(dirs_main, dcm_folder, new_folder, csf_folder):
 
 '''
 ##########################
-    Same useful methods 
+    Some useful methods 
 ##########################
 '''
 
-# method to retrieve the entire path of the dcmtonii program
+# method to retrieve the entire path
 def return_file_path(folder_path, subfolder_path):
 
     return '/'.join([folder_path, subfolder_path])
 
 
-# Simple metgod to return only unique values from a list
+# Simple method to return only unique values from a list
 # Takes the list to be processed as argument
 def unique(list1):
 
@@ -83,18 +83,3 @@ def unique(list1):
 
     return unique_list
 
-
-'''
-
-for i, dirs in enumerate(root_dir):
-    print(dirs)
-    print("++++++++++++++++++")
-    print("\n"+ str(i) + '/' + str(len(root_dir)))
-    command = [dcm2niix_dir, '/'.join([os.getcwd(), dirs])]
-    print(command)
-    registration = subprocess.Popen(command, stdout=subprocess.PIPE)
-    output, errors = registration.communicate()
-    print ([registration.returncode, errors, output])
-    time.sleep(3)
-
-'''

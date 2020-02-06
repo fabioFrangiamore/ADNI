@@ -1,9 +1,11 @@
 import os
 import subprocess
 import time
+import pandas as pd
 
 # the program for the conversion dcm --> nii is always in the same path
 dcm2niix_ = 'dcm2niix/build/bin/dcm2niix'
+CSF_csv = 'ADNI/Prime_analisi/Output/ADNI1.csv'
 
 # Method to retrieve all the folder with dcm files inside to be processed and the subject id
 # Takes the main folder with MRI data as argument
@@ -31,9 +33,14 @@ def return_folder(dirs_main):
 
 
 # Method to convert all my dcmfiles in to a unique nii file for every subjects
-def convert_dcmtonii(dirs_main, dcm_folder, new_folder):
+def convert_dcmtonii(dirs_main, dcm_folder, new_folder, csf_folder):
     root_dir_list, subject_list = return_folder(dirs_main)
-    dcm2niix_dir = return_dcm_program_path(dcm_folder)
+    dcm2niix_dir = return_file_path(dcm_folder, dcm2niix_)
+    csf_path = return_file_path(csf_folder, CSF_csv)
+
+    csf = pd.read_csv(csf_path)
+    csf_new = csf[csf['PTID'].isin(subject_list)]
+    csf_new.to_csv('csf_adni.csv')
 
     try:
         os.makedirs(new_folder)
@@ -51,11 +58,6 @@ def convert_dcmtonii(dirs_main, dcm_folder, new_folder):
         print ([registration.returncode, errors, output])
         time.sleep(3)
 
-
-
-
-
-
 '''
 ##########################
     Same useful methods 
@@ -63,9 +65,9 @@ def convert_dcmtonii(dirs_main, dcm_folder, new_folder):
 '''
 
 # method to retrieve the entire path of the dcmtonii program
-def return_dcm_program_path(folder_path):
+def return_file_path(folder_path, subfolder_path):
 
-    return '/'.join([folder_path, dcm2niix_])
+    return '/'.join([folder_path, subfolder_path])
 
 
 # Simple metgod to return only unique values from a list
@@ -84,7 +86,6 @@ def unique(list1):
 
 '''
 
-
 for i, dirs in enumerate(root_dir):
     print(dirs)
     print("++++++++++++++++++")
@@ -95,35 +96,5 @@ for i, dirs in enumerate(root_dir):
     output, errors = registration.communicate()
     print ([registration.returncode, errors, output])
     time.sleep(3)
-
-
-# In[16]:
-
-
-print('/'.join([os.getcwd(), root_dir[0]]))
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
 '''

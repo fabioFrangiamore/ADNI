@@ -9,8 +9,10 @@ folders = os.listdir(main_folder)
 
 
 for folder in folders:
-    MRI_types = (os.listdir(main_folder + folder))
+    print(folder)
+    print(main_folder)
+    MRI_types = (os.listdir(main_folder + '/' +folder))
     for MRI_type in MRI_types:
         if not any(x in str(MRI_type) for x in ['T2', 'N3', 'Mask']) or any(y in str(MRI_type) for y in ['MPR-R', 'Scaled']):
-            shutil.rmtree(main_folder + folder + '/' + MRI_type)
+            shutil.rmtree(main_folder + '/' + folder + '/' + MRI_type)
 

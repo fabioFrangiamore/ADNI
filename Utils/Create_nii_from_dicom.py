@@ -40,7 +40,7 @@ def convert_dcmtonii(dirs_main, dcm_folder, new_folder, csf_folder):
 
     csf = pd.read_csv(csf_path)
     csf_new = csf[csf['PTID'].isin(subject_list)]
-    csf_new.to_csv('csf_adni.csv')
+    
 
     try:
         os.makedirs(new_folder)
@@ -52,12 +52,14 @@ def convert_dcmtonii(dirs_main, dcm_folder, new_folder, csf_folder):
         print("++++++++++++++++++")
         print("\n"+ str(i) + '/' + str(len(root_dir_list)))
         command = [dcm2niix_dir,'-o', new_folder, dirs]
-        print(command)
+        SUBJ = dirs.split('/')[-4]
+        subject_id = csf_new.index[csf_new['PTID'] == SUBJ].values[0]
+        csf_new.loc[subject_id, 'SUBJ'] = dirs.split('/')[-1]
         registration = subprocess.Popen(command, stdout=subprocess.PIPE)
         output, errors = registration.communicate()
         print ([registration.returncode, errors, output])
         time.sleep(3)
-
+    csf_new.to_csv('csf_adni.csv')
 '''
 ##########################
     Some useful methods 

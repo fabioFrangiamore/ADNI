@@ -2,15 +2,17 @@ import pandas as pd
 import os
 import shutil
 import subprocess
-import nibabel as nib
 
+# Definisco la cartella principale dove sono contenute tutte le immagini (ADNI1 in questo caso)
 main_folder = '/media/fabio/Disco locale/Scaricati/ADNI1_ex/ADNI'
+
 
 folders = os.listdir(main_folder)
 
+# Seleziono una img random l'immagine su cui effettuare la registrazione
 fixed_image = '/media/fabio/Disco locale/Scaricati/ADNI1_ex/ADNI/002_S_0559/MPR-R__GradWarp__B1_Correction__N3/2006-05-23_15_09_38.0/S14876/ADNI_002_S_0559_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20070216235035331_S14876_I40678.nii'
 
-
+# Devo prima eliminare tutte le immagini che non sono quelle che mi interessano (Voglio solo T2, T1__Mask, e con almeno correzione N3s)
 for folder in folders:
     print(folder)
     print(main_folder)
@@ -34,7 +36,7 @@ for folder in folders:
         else:
             imgs.append(MRI_type)
 
-    # se ci sono immagini con correzioni aggiuntive (es MPR__N3 e MPR_B1_N3) seleziono solamente quelle con correzioni maggiori
+    # se ci sono immagini con correzioni aggiuntive (es MPR__N3 e MPR_B1_N3) seleziono solamente quelle con un numero maggiore di correzioni
     try:
         print("mask : " +str(max(masks, key=len)))
         print("img : " + str(max(imgs, key=len)))
@@ -49,7 +51,20 @@ for folder in folders:
 
     except Exception as e:
         print(e)
-'''
+
+###############################################################
+###############################################################
+### Una volta eliminate le immagini inutili posso registrarle. Prima devo creare un file di tipo txt contenente tutti gli argomenti da passare per ogni
+### immagine che voglio registrare usando plastimatch:
+###     1 - moving_image
+###     2 - input_image
+###     3 - output image
+###     4 - tipologia di registrazione (affine, traslazione, rigida)
+###
+###############################################################
+###############################################################
+
+trasformation = 'rigid'
 for folder in folders:
     for roots, dirs, files in os.walk(main_folder + '/' + folder):
         print()
@@ -63,7 +78,7 @@ for folder in folders:
                 my_txt = os.path.join(main_folder + '/' + folder, files[0] +'.txt')
                 file = open(my_txt, "w")
                 file.write("[GLOBAL] \n\nfixed = " + fixed_image +"\nmoving = " + moving_image + "\nimg_out = " + roots + '/' + 'registrata_' + str(files[0])+
-                "\n\n[STAGE] \n\nxform=rigid \noptim=versor \nmax_its=30 \nres=4 4 2")
+                "\n\n[STAGE] \n\nxform=" + trasformation +  "\noptim=versor \nmax_its=30 \nres=4 4 2")
                 file.close()
 
                 command = ['plastimatch', 'register' ,  my_txt]
@@ -71,5 +86,5 @@ for folder in folders:
                 output, errors = registration.communicate()
                 print ([registration.returncode, errors, output])
 
-'''
+
 

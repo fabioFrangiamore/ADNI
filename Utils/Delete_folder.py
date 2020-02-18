@@ -2,9 +2,11 @@ import pandas as pd
 import os
 import shutil
 import subprocess
+from intensity_normalization.normalize import zscore
+import nibabel as nib
 
 # Definisco la cartella principale dove sono contenute tutte le immagini (ADNI1 in questo caso)
-main_folder = '/media/fabio/Disco locale/Scaricati/ADNI1_ex/ADNI'
+main_folder = 'D:\ADNI\Dati\ADNI_T1\ADNI1_T1\ADNI'
 
 
 folders = os.listdir(main_folder)
@@ -63,7 +65,7 @@ for folder in folders:
 ###
 ###############################################################
 ###############################################################
-
+'''
 trasformation = 'rigid'
 for folder in folders:
     for roots, dirs, files in os.walk(main_folder + '/' + folder):
@@ -87,4 +89,4 @@ for folder in folders:
                 print ([registration.returncode, errors, output])
 
 
-
+'''

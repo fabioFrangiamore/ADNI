@@ -1,6 +1,6 @@
 ## Classificazione dei gradi di demenza / alzheimer da MRI + CSF
 
-####Preprocessing
+#### Preprocessing
 * Skull stripping (ROBEX)
 * N4 (ANTS)
 * Intensity Normalization (Fuzzy c-means)

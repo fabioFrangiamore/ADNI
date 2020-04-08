@@ -1,0 +1,244 @@
+,Image Data ID,Subject,Group,Sex,Age,Visit,Modality,Description,Type,Acq Date,Format,Downloaded,Lunghezza
+825,79934,037_S_1225,MCI,M,77,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,1/24/2007,NiFTI,2/12/2020,1
+827,79824,037_S_0588,MCI,M,65,1,MRI,MPR; GradWarp; N3; Scaled,Processed,11/28/2006,NiFTI,2/12/2020,1
+828,79796,037_S_0552,MCI,F,60,1,MRI,MPR; GradWarp; N3; Scaled,Processed,5/24/2006,NiFTI,2/11/2020,1
+829,79792,037_S_0539,MCI,M,74,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,6/15/2006,NiFTI,2/11/2020,1
+830,79773,037_S_0501,MCI,M,78,1,MRI,MPR; GradWarp; N3; Scaled,Processed,5/23/2006,NiFTI,2/12/2020,1
+833,83094,037_S_0377,MCI,M,79,1,MRI,MPR; GradWarp; N3; Scaled,Processed,5/02/2006,NiFTI,2/12/2020,1
+834,79732,037_S_0327,CN,M,70,1,MRI,MPR; GradWarp; N3; Scaled,Processed,4/19/2006,NiFTI,2/12/2020,1
+835,65148,037_S_0303,CN,M,84,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,4/07/2006,NiFTI,2/12/2020,1
+836,65134,037_S_0182,MCI,F,64,1,MRI,MPR; GradWarp; N3; Scaled,Processed,2/14/2006,NiFTI,2/12/2020,1
+837,65130,037_S_0150,MCI,M,74,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,2/01/2006,NiFTI,2/12/2020,1
+838,65118,036_S_1240,MCI,F,67,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/13/2007,NiFTI,2/12/2020,1
+839,65109,036_S_1135,MCI,M,76,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/27/2006,NiFTI,2/11/2020,1
+840,65104,036_S_1023,CN,F,77,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,12/20/2006,NiFTI,2/12/2020,1
+842,65091,036_S_0976,MCI,M,81,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/12/2006,NiFTI,2/12/2020,1
+843,36999,036_S_0945,MCI,M,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,10/25/2006,NiFTI,2/12/2020,1
+844,36993,036_S_0869,MCI,F,83,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,10/30/2006,NiFTI,2/11/2020,1
+845,36979,036_S_0813,CN,M,73,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/25/2006,NiFTI,2/11/2020,1
+848,36959,036_S_0748,MCI,M,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/10/2006,NiFTI,2/12/2020,1
+849,36949,036_S_0673,MCI,M,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/21/2006,NiFTI,2/11/2020,1
+850,36938,036_S_0672,CN,F,62,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/21/2006,NiFTI,2/12/2020,1
+851,36924,036_S_0656,MCI,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/07/2006,NiFTI,2/11/2020,1
+853,36903,036_S_0576,CN,M,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/01/2006,NiFTI,2/11/2020,1
+854,62908,035_S_0997,MCI,F,81,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/29/2006,NiFTI,2/11/2020,1
+855,39614,035_S_0555,CN,M,77,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/14/2006,NiFTI,2/12/2020,1
+857,39569,035_S_0292,MCI,M,77,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/22/2006,NiFTI,2/12/2020,1
+858,39542,035_S_0204,MCI,F,71,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/14/2006,NiFTI,2/12/2020,1
+859,39533,035_S_0156,CN,M,74,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/31/2006,NiFTI,2/11/2020,1
+860,45183,035_S_0048,CN,M,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/22/2005,NiFTI,2/11/2020,1
+861,45166,035_S_0033,MCI,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/22/2005,NiFTI,2/11/2020,1
+862,51605,033_S_1309,MCI,F,69,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/08/2007,NiFTI,2/12/2020,1
+865,54799,033_S_1284,MCI,M,86,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/12/2007,NiFTI,2/11/2020,1
+868,54757,033_S_1279,MCI,F,68,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/12/2007,NiFTI,2/11/2020,1
+869,42844,033_S_1116,MCI,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/21/2006,NiFTI,2/12/2020,1
+870,42832,033_S_1098,CN,F,72,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/21/2006,NiFTI,2/11/2020,1
+871,42785,033_S_1086,CN,M,82,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/06/2006,NiFTI,2/11/2020,1
+872,42772,033_S_1016,CN,F,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/01/2006,NiFTI,2/11/2020,1
+873,42509,033_S_0923,CN,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/29/2006,NiFTI,2/11/2020,1
+874,42493,033_S_0922,MCI,M,68,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/26/2006,NiFTI,2/11/2020,1
+875,42481,033_S_0920,CN,F,80,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,9/22/2006,NiFTI,2/12/2020,1
+876,42468,033_S_0906,MCI,F,65,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/25/2006,NiFTI,2/12/2020,1
+974,67441,031_S_1209,AD,F,72,1,MRI,MPR; GradWarp; N3; Scaled,Processed,1/12/2007,NiFTI,2/11/2020,1
+975,67434,031_S_1066,MCI,M,72,1,MRI,MPR; GradWarp; N3; Scaled,Processed,11/10/2006,NiFTI,2/11/2020,1
+976,67423,031_S_0867,MCI,M,72,1,MRI,MPR; GradWarp; N3; Scaled,Processed,9/20/2006,NiFTI,2/11/2020,1
+977,79342,031_S_0830,MCI,M,71,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,9/13/2006,NiFTI,2/11/2020,1
+978,94816,031_S_0821,MCI,M,79,1,MRI,MPR; GradWarp; N3; Scaled,Processed,8/30/2006,NiFTI,2/11/2020,1
+979,67110,031_S_0618,CN,M,75,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,6/06/2006,NiFTI,2/11/2020,1
+980,64922,031_S_0568,MCI,F,80,1,MRI,MPR; GradWarp; N3; Scaled,Processed,5/22/2006,NiFTI,2/11/2020,1
+981,64711,031_S_0554,AD,M,72,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,5/23/2006,NiFTI,2/12/2020,1
+982,65401,031_S_0351,MCI,M,69,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,4/18/2006,NiFTI,2/11/2020,1
+983,65383,031_S_0321,AD,M,68,1,MRI,MPR; GradWarp; N3; Scaled,Processed,3/21/2006,NiFTI,2/11/2020,1
+984,86206,031_S_0294,MCI,M,79,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,3/16/2006,NiFTI,2/12/2020,1
+985,64907,029_S_1384,MCI,M,72,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,3/28/2007,NiFTI,2/12/2020,1
+986,60760,029_S_1318,MCI,F,83,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,2/17/2007,NiFTI,2/12/2020,1
+987,67389,029_S_1218,MCI,F,86,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/23/2007,NiFTI,2/11/2020,1
+988,60746,029_S_1215,MCI,M,79,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/19/2007,NiFTI,2/11/2020,1
+989,67210,029_S_1184,AD,F,65,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/22/2007,NiFTI,2/11/2020,1
+990,65022,029_S_1073,MCI,F,66,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/21/2006,NiFTI,2/11/2020,1
+991,60741,029_S_1056,AD,F,71,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/27/2006,NiFTI,2/11/2020,1
+992,60732,029_S_1038,MCI,M,83,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/21/2006,NiFTI,2/12/2020,1
+993,64898,029_S_0999,AD,M,71,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/30/2006,NiFTI,2/11/2020,1
+994,124879,029_S_0914,MCI,M,75,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/18/2006,NiFTI,2/11/2020,1
+995,64876,029_S_0878,MCI,M,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/15/2006,NiFTI,2/12/2020,1
+996,60719,029_S_0871,MCI,M,69,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/15/2006,NiFTI,2/12/2020,1
+997,65611,029_S_0866,CN,F,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/13/2006,NiFTI,2/12/2020,1
+998,64867,029_S_0845,CN,M,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/12/2006,NiFTI,2/11/2020,1
+999,66997,029_S_0843,CN,M,71,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/13/2006,NiFTI,2/12/2020,1
+1000,65013,029_S_0836,AD,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/23/2006,NiFTI,2/11/2020,1
+1001,96284,029_S_0824,CN,F,76,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/22/2006,NiFTI,2/12/2020,1
+1002,67201,027_S_1387,MCI,M,86,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/26/2007,NiFTI,2/11/2020,1
+1003,47574,027_S_1385,AD,F,70,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/28/2007,NiFTI,2/11/2020,1
+1004,47278,027_S_1277,MCI,M,86,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/09/2007,NiFTI,2/11/2020,1
+1005,47228,027_S_1254,AD,M,84,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/31/2007,NiFTI,2/12/2020,1
+1006,47223,027_S_1213,MCI,F,75,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,1/19/2007,NiFTI,2/11/2020,1
+1007,47204,027_S_1082,AD,F,70,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/27/2006,NiFTI,2/11/2020,1
+1008,47168,027_S_1081,AD,M,85,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/22/2007,NiFTI,2/12/2020,1
+1009,47210,027_S_1045,MCI,F,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/03/2006,NiFTI,2/12/2020,1
+1010,48996,027_S_0850,AD,M,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/06/2006,NiFTI,2/11/2020,1
+1011,35666,027_S_0835,MCI,M,73,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,9/11/2006,NiFTI,2/11/2020,1
+1012,34240,027_S_0644,MCI,M,75,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/16/2006,NiFTI,2/12/2020,1
+1013,37557,027_S_0485,MCI,M,64,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/08/2006,NiFTI,2/11/2020,1
+1014,34231,027_S_0461,MCI,M,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/02/2006,NiFTI,2/11/2020,1
+1015,34226,027_S_0417,MCI,M,80,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,5/12/2006,NiFTI,2/11/2020,1
+1016,37548,027_S_0408,MCI,M,82,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/10/2006,NiFTI,2/11/2020,1
+1017,34204,027_S_0404,AD,F,88,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/27/2006,NiFTI,2/11/2020,1
+1018,34181,027_S_0403,CN,M,76,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,4/20/2006,NiFTI,2/11/2020,1
+1019,34159,027_S_0307,MCI,M,79,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/06/2006,NiFTI,2/11/2020,1
+1020,34150,027_S_0256,MCI,M,70,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/21/2006,NiFTI,2/11/2020,1
+1041,65280,024_S_1400,MCI,M,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/08/2007,NiFTI,2/11/2020,1
+1042,65271,024_S_1393,MCI,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/13/2007,NiFTI,2/12/2020,1
+1043,63415,024_S_1307,AD,F,75,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/23/2007,NiFTI,2/11/2020,1
+1044,63406,024_S_1171,AD,M,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/04/2007,NiFTI,2/11/2020,1
+1045,63392,024_S_1063,CN,F,78,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,10/31/2006,NiFTI,2/11/2020,1
+1046,62715,024_S_0985,CN,M,80,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,10/20/2006,NiFTI,2/11/2020,1
+1067,128366,023_S_1126,MCI,M,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled_2,Processed,12/05/2006,NiFTI,2/12/2020,1
+1172,68082,022_S_1394,MCI,M,77,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,5/29/2007,NiFTI,2/12/2020,1
+1173,67165,022_S_1366,MCI,M,74,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/28/2007,NiFTI,2/11/2020,1
+1174,59615,022_S_1351,MCI,F,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/16/2007,NiFTI,2/11/2020,1
+1175,59610,022_S_1097,MCI,M,73,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/30/2006,NiFTI,2/12/2020,1
+1176,59601,022_S_0961,MCI,M,73,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,10/20/2006,NiFTI,2/12/2020,1
+1177,59575,022_S_0924,MCI,M,70,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/27/2006,NiFTI,2/12/2020,1
+1178,59552,022_S_0750,MCI,F,76,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/07/2006,NiFTI,2/12/2020,1
+1179,64672,022_S_0544,MCI,F,77,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/17/2006,NiFTI,2/12/2020,1
+1180,59543,022_S_0543,AD,F,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/22/2006,NiFTI,2/12/2020,1
+1181,59533,022_S_0219,AD,M,75,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/17/2006,NiFTI,2/11/2020,1
+1182,59524,022_S_0130,CN,M,73,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/23/2006,NiFTI,2/11/2020,1
+1183,59484,022_S_0129,AD,F,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/06/2006,NiFTI,2/11/2020,1
+1184,59456,022_S_0096,CN,M,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/18/2006,NiFTI,2/11/2020,1
+1185,59446,022_S_0066,CN,M,75,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/23/2005,NiFTI,2/11/2020,1
+1186,59398,022_S_0044,MCI,F,86,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/03/2005,NiFTI,2/12/2020,1
+1187,59375,022_S_0014,CN,F,79,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/29/2005,NiFTI,2/12/2020,1
+1188,59366,022_S_0007,AD,M,75,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/13/2005,NiFTI,2/12/2020,1
+1189,64631,022_S_0004,MCI,M,68,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,9/22/2005,NiFTI,2/11/2020,1
+1190,62695,021_S_1109,AD,F,78,1,MRI,MPR; GradWarp; N3; Scaled,Processed,12/05/2006,NiFTI,2/12/2020,1
+1191,33476,021_S_0984,CN,M,77,1,MRI,MPR; GradWarp; N3; Scaled,Processed,10/23/2006,NiFTI,2/11/2020,1
+1192,33461,021_S_0753,AD,M,66,1,MRI,MPR; GradWarp; N3; Scaled,Processed,8/04/2006,NiFTI,2/11/2020,1
+1193,33457,021_S_0647,CN,M,73,1,MRI,MPR; GradWarp; N3; Scaled,Processed,6/29/2006,NiFTI,2/11/2020,1
+1194,33452,021_S_0642,AD,M,85,1,MRI,MPR; GradWarp; N3; Scaled,Processed,6/28/2006,NiFTI,2/12/2020,1
+1195,34672,021_S_0626,MCI,M,83,1,MRI,MPR; GradWarp; N3; Scaled,Processed,6/29/2006,NiFTI,2/24/2020,1
+1196,33644,021_S_0424,MCI,M,81,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,4/20/2006,NiFTI,2/11/2020,1
+1197,33444,021_S_0343,AD,M,72,1,MRI,MPR; GradWarp; N3; Scaled,Processed,4/06/2006,NiFTI,2/12/2020,1
+1198,33437,021_S_0337,CN,M,76,1,MRI,MPR; GradWarp; N3; Scaled,Processed,3/28/2006,NiFTI,2/11/2020,1
+1199,33599,021_S_0332,MCI,M,70,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,4/04/2006,NiFTI,2/11/2020,1
+1200,33433,021_S_0276,MCI,M,71,1,MRI,MPR; GradWarp; N3; Scaled,Processed,3/17/2006,NiFTI,2/12/2020,1
+1201,33428,021_S_0273,MCI,M,63,1,MRI,MPR; GradWarp; N3; Scaled,Processed,3/14/2006,NiFTI,2/11/2020,1
+1202,33493,021_S_0231,MCI,M,60,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,2/28/2006,NiFTI,2/11/2020,1
+1203,33799,021_S_0178,MCI,M,65,1,MRI,MPR; GradWarp; N3; Scaled,Processed,2/10/2006,NiFTI,2/12/2020,1
+1204,33489,021_S_0159,CN,F,78,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,1/30/2006,NiFTI,2/11/2020,1
+1205,33396,021_S_0141,MCI,M,81,1,MRI,MPR; GradWarp; N3; Scaled,Processed,1/23/2006,NiFTI,2/12/2020,1
+1206,60664,020_S_1288,CN,M,60,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/21/2007,NiFTI,2/11/2020,1
+1207,60618,020_S_0899,CN,F,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/25/2006,NiFTI,2/11/2020,1
+1208,60673,020_S_0883,CN,F,76,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/15/2006,NiFTI,2/11/2020,1
+1209,60600,020_S_0213,AD,M,63,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/22/2006,NiFTI,2/11/2020,1
+1210,64046,020_S_0097,CN,F,73,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/12/2006,NiFTI,2/12/2020,1
+1271,62395,016_S_1326,MCI,M,66,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/01/2007,NiFTI,2/11/2020,1
+1272,64622,016_S_1263,AD,F,65,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,2/27/2007,NiFTI,2/11/2020,1
+1273,95615,016_S_1149,MCI,M,84,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/04/2007,NiFTI,2/11/2020,1
+1274,86045,016_S_1138,MCI,M,67,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/28/2006,NiFTI,2/12/2020,1
+1275,96234,016_S_1121,MCI,F,56,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,12/06/2006,NiFTI,2/12/2020,1
+1276,46384,016_S_1117,MCI,F,69,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/01/2006,NiFTI,2/12/2020,1
+1277,101411,016_S_1092,MCI,M,74,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,12/11/2006,NiFTI,2/11/2020,1
+1278,40799,016_S_1028,MCI,F,77,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/02/2006,NiFTI,2/11/2020,1
+1279,40794,016_S_0991,AD,F,86,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/01/2006,NiFTI,2/11/2020,1
+1280,48867,016_S_0769,MCI,M,62,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/02/2006,NiFTI,2/11/2020,1
+1281,40781,016_S_0702,MCI,M,85,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/24/2006,NiFTI,2/11/2020,1
+1282,51515,016_S_0590,MCI,F,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/06/2006,NiFTI,2/11/2020,1
+1283,40772,016_S_0538,CN,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/02/2006,NiFTI,2/11/2020,1
+1284,96221,016_S_0359,CN,F,81,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/06/2006,NiFTI,2/12/2020,1
+1285,92669,016_S_0354,MCI,M,76,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/05/2006,NiFTI,2/11/2020,1
+1286,45740,014_S_1095,AD,F,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/03/2006,NiFTI,2/12/2020,1
+1287,39701,014_S_0658,MCI,M,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/25/2006,NiFTI,2/11/2020,1
+1288,39692,014_S_0563,MCI,M,81,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/05/2006,NiFTI,2/11/2020,1
+1289,39683,014_S_0558,CN,M,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/21/2006,NiFTI,2/12/2020,1
+1290,39674,014_S_0557,MCI,M,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/31/2006,NiFTI,2/11/2020,1
+1291,39665,014_S_0548,CN,F,74,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/25/2006,NiFTI,2/11/2020,1
+1292,39660,014_S_0520,CN,F,78,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,5/12/2006,NiFTI,2/11/2020,1
+1293,39647,014_S_0519,CN,M,74,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/12/2006,NiFTI,2/12/2020,1
+1294,39629,014_S_0356,AD,M,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/05/2006,NiFTI,2/12/2020,1
+1295,39620,014_S_0328,AD,M,77,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/22/2006,NiFTI,2/11/2020,1
+1296,40858,014_S_0169,MCI,F,72,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,2/07/2006,NiFTI,2/12/2020,1
+1297,62680,013_S_1276,CN,F,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/05/2007,NiFTI,2/11/2020,1
+1298,62666,013_S_1275,MCI,F,79,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/22/2007,NiFTI,2/11/2020,1
+1299,51542,013_S_1205,AD,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/11/2007,NiFTI,2/11/2020,1
+1300,62656,013_S_1186,MCI,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/29/2007,NiFTI,2/12/2020,1
+1301,51485,013_S_1161,AD,M,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/20/2006,NiFTI,2/12/2020,1
+1302,51494,013_S_1120,MCI,F,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/22/2006,NiFTI,2/11/2020,1
+1303,51165,013_S_1035,CN,M,87,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/02/2006,NiFTI,2/11/2020,1
+1304,51183,013_S_0996,AD,F,91,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/06/2006,NiFTI,2/11/2020,1
+1305,51533,013_S_0860,MCI,M,85,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/21/2006,NiFTI,2/12/2020,1
+1306,62650,013_S_0699,AD,M,82,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,8/28/2006,NiFTI,2/11/2020,1
+1307,79144,013_S_0592,AD,M,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/17/2006,NiFTI,2/11/2020,1
+1308,51160,013_S_0575,CN,F,86,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,8/14/2006,NiFTI,2/12/2020,1
+1309,51138,013_S_0502,CN,M,75,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,7/25/2006,NiFTI,2/12/2020,1
+1310,54665,013_S_0325,MCI,F,71,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,4/19/2006,NiFTI,2/12/2020,1
+1311,51151,013_S_0240,MCI,M,88,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,3/20/2006,NiFTI,2/11/2020,1
+1374,62636,011_S_1282,MCI,F,77,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/09/2007,NiFTI,2/12/2020,1
+1375,35591,011_S_1080,MCI,M,82,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/22/2006,NiFTI,2/12/2020,1
+1376,35513,011_S_0861,MCI,M,87,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/27/2006,NiFTI,2/12/2020,1
+1377,89408,011_S_0856,MCI,M,60,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/15/2006,NiFTI,2/12/2020,1
+1378,89404,011_S_0362,MCI,F,71,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,3/28/2006,NiFTI,2/11/2020,1
+1379,89390,011_S_0326,MCI,M,77,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/20/2006,NiFTI,2/12/2020,1
+1380,32020,011_S_0241,MCI,M,82,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,3/10/2006,NiFTI,2/11/2020,1
+1381,32003,011_S_0183,AD,F,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/03/2006,NiFTI,2/12/2020,1
+1382,35499,011_S_0168,MCI,M,89,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,2/10/2006,NiFTI,2/11/2020,1
+1383,35486,011_S_0053,AD,M,80,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/14/2005,NiFTI,2/11/2020,1
+1384,32409,011_S_0023,CN,M,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,10/31/2005,NiFTI,2/11/2020,1
+1385,32389,011_S_0022,CN,M,63,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,10/10/2005,NiFTI,2/12/2020,1
+1386,32332,011_S_0021,CN,F,73,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,10/10/2005,NiFTI,2/12/2020,1
+1387,32306,011_S_0016,CN,M,66,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/27/2005,NiFTI,2/12/2020,1
+1388,32270,011_S_0010,AD,F,74,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/07/2005,NiFTI,2/11/2020,1
+1389,32264,011_S_0008,CN,F,85,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,9/13/2005,NiFTI,2/11/2020,1
+1390,32246,011_S_0005,CN,M,74,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,9/02/2005,NiFTI,2/11/2020,1
+1391,32237,011_S_0003,AD,M,81,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,9/01/2005,NiFTI,2/11/2020,1
+1392,35475,011_S_0002,CN,M,74,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/26/2005,NiFTI,2/11/2020,1
+1429,60443,009_S_1354,AD,F,59,1,MRI,MPR; GradWarp; N3; Scaled,Processed,3/06/2007,NiFTI,2/12/2020,1
+1430,60434,009_S_1334,AD,M,64,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,3/01/2007,NiFTI,2/11/2020,1
+1431,52836,009_S_1199,MCI,M,58,1,MRI,MPR-R; GradWarp; N3; Scaled,Processed,1/16/2007,NiFTI,2/11/2020,1
+1432,54651,009_S_1030,MCI,M,68,1,MRI,MPR; GradWarp; N3; Scaled,Processed,11/01/2006,NiFTI,2/12/2020,1
+1433,121228,009_S_0862,CN,F,74,1,MRI,MPR; GradWarp; N3; Scaled,Processed,9/19/2006,NiFTI,2/11/2020,1
+1434,89575,009_S_0842,CN,M,74,1,MRI,MPR; GradWarp; N3; Scaled,Processed,9/07/2006,NiFTI,2/11/2020,1
+1435,101528,009_S_0751,CN,M,71,1,MRI,MPR; GradWarp; N3; Scaled,Processed,7/25/2006,NiFTI,2/12/2020,1
+1436,56319,007_S_1339,AD,F,80,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/22/2007,NiFTI,2/12/2020,1
+1437,59910,007_S_1304,AD,F,75,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/13/2007,NiFTI,2/11/2020,1
+1438,59950,007_S_1248,AD,F,80,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,1/25/2007,NiFTI,2/11/2020,1
+1439,60003,007_S_1222,CN,F,73,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,1/19/2007,NiFTI,2/11/2020,1
+1440,59981,007_S_1206,CN,M,73,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,1/17/2007,NiFTI,2/12/2020,1
+1485,55972,006_S_1130,MCI,F,71,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/30/2006,NiFTI,2/12/2020,1
+1486,90848,006_S_0731,CN,M,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/28/2006,NiFTI,2/12/2020,1
+1487,92305,006_S_0681,CN,F,77,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/31/2006,NiFTI,2/12/2020,1
+1488,67341,006_S_0675,MCI,F,79,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/31/2006,NiFTI,2/12/2020,1
+1489,55948,006_S_0653,AD,F,74,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/14/2006,NiFTI,2/11/2020,1
+1490,75279,006_S_0547,AD,M,76,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,9/21/2006,NiFTI,2/11/2020,1
+1491,55943,006_S_0498,CN,M,71,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,9/19/2006,NiFTI,2/11/2020,1
+1492,65566,006_S_0484,CN,M,71,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/13/2006,NiFTI,2/11/2020,1
+1493,60417,005_S_1341,AD,F,72,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/07/2007,NiFTI,2/11/2020,1
+1494,60406,005_S_1224,MCI,M,81,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,1/23/2007,NiFTI,2/11/2020,1
+1495,74609,005_S_0929,AD,M,82,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,10/02/2006,NiFTI,2/12/2020,1
+1496,74591,005_S_0814,AD,F,71,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,8/30/2006,NiFTI,2/11/2020,1
+1497,32667,005_S_0610,CN,M,79,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/21/2006,NiFTI,2/12/2020,1
+1498,32672,005_S_0602,CN,M,71,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/29/2006,NiFTI,2/11/2020,1
+1499,32653,005_S_0572,MCI,M,79,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/20/2006,NiFTI,2/12/2020,1
+1500,32644,005_S_0553,CN,M,85,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,6/14/2006,NiFTI,2/11/2020,1
+1501,32681,005_S_0546,MCI,M,80,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,6/15/2006,NiFTI,2/11/2020,1
+1502,32875,005_S_0448,MCI,M,86,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,5/04/2006,NiFTI,2/12/2020,1
+1503,32891,005_S_0324,MCI,F,75,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,3/30/2006,NiFTI,2/11/2020,1
+1504,32855,005_S_0223,CN,F,78,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/28/2006,NiFTI,2/12/2020,1
+1505,54686,005_S_0222,MCI,M,86,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/21/2006,NiFTI,2/12/2020,1
+1506,72128,005_S_0221,AD,M,68,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/22/2006,NiFTI,2/12/2020,1
+1507,52790,003_S_1257,AD,M,85,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,3/01/2007,NiFTI,2/12/2020,1
+1508,52799,003_S_1122,MCI,F,77,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/06/2006,NiFTI,2/12/2020,1
+1509,53395,003_S_1074,MCI,F,85,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/04/2006,NiFTI,2/11/2020,1
+1510,52816,003_S_1059,AD,F,85,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/09/2006,NiFTI,2/11/2020,1
+1511,52821,003_S_1057,MCI,F,61,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/04/2006,NiFTI,2/12/2020,1
+1512,73506,003_S_1021,CN,F,87,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,11/01/2006,NiFTI,2/12/2020,1
+1513,52776,003_S_0981,CN,F,84,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,10/19/2006,NiFTI,2/12/2020,1
+1514,53390,003_S_0931,CN,F,86,1,MRI,MPR-R; GradWarp; B1 Correction; N3; Scaled,Processed,10/11/2006,NiFTI,2/11/2020,1
+1515,62589,003_S_0908,MCI,F,63,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/12/2006,NiFTI,2/11/2020,1
+1516,52781,003_S_0907,CN,F,89,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,9/11/2006,NiFTI,2/11/2020,1
+1517,60056,002_S_1280,CN,F,71,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/13/2007,NiFTI,2/11/2020,1
+1518,64037,002_S_1268,MCI,M,83,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/14/2007,NiFTI,2/11/2020,1
+1519,62377,002_S_1261,CN,F,71,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,2/15/2007,NiFTI,2/12/2020,1
+1520,40845,002_S_1155,MCI,M,58,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,12/14/2006,NiFTI,2/11/2020,1
+1521,40831,002_S_1070,MCI,M,74,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/28/2006,NiFTI,2/11/2020,1
+1522,40817,002_S_1018,AD,F,71,1,MRI,MPR; GradWarp; B1 Correction; N3; Scaled,Processed,11/29/2006,NiFTI,2/11/2020,1
